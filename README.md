@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm victor settin</h1>
-<h3 align="center">A passionate developer from SP/Brasil</h3>
+<h3 align="center">A passionate FullStack developer from SP/Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-settin&label=Profile%20views&color=0e75b6&style=flat" alt="victor-settin" /> </p>
 
