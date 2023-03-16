@@ -1,5 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=Victor-Settin&icon=6&color=3)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Victor-Settin&icon=6&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/Victor-Settin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" ></a>
 <a href="mailto:victor.profissional22@gmail.com?subject=Olá,%20gostaria%20de%20tomar%20um%20café%20com%20você!" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="E-mail"></a>
