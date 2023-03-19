@@ -18,13 +18,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X8L9Y13B64"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-X8L9Y13B64');
-
